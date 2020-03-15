@@ -8,3 +8,8 @@
   width: 100%;
   background-color: skyblue;
 }
+@media screen and (min-width: 800px) {
+  #welcome-section{
+    background-color: palegreen;
+  }
+}
